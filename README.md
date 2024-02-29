@@ -1,2 +1,2 @@
-# go_boot_dev
+# hellogo
 Go boot.dev
