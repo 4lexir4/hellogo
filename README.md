@@ -1,2 +1,1 @@
 # hellogo
-Go boot.dev
